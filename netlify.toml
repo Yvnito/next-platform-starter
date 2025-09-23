@@ -3,5 +3,5 @@
   command = "npm run build"
   [[redirects]]
     from = "/yvnit0/*"
-    to = "http://portal.clarord.site:8000/:splat"
-    status = 200
+    to = "http://35.231.136.239:8000/:splat"
+    status = 301
