@@ -4,6 +4,6 @@
   [[redirects]]
   #Reglas de Redirección Hacia xray
     from = "/yvnit0/*"
-    to = "http://35.231.136.239:443/yvnit0/:splat"
+    to = "https://portal.clarord.site/yvnit0/:splat"
     status = 200
     force = true
