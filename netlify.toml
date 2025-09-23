@@ -3,6 +3,6 @@
   command = "npm run build"
   [[redirects]]
   #Reglas de Redirección Hacia xray
-    from = "/*"
-    to = "https://portal.clarord.site/yvnit0/:splat"
+    from = "/yvnit0/*"
+    to = "https://portal.clarord.site/yvnit0:splat"
     status = 302
