@@ -5,4 +5,4 @@
   #Reglas de Redirección Hacia xray
     from = "/yvnit0/*"
     to = "https://portal.clarord.site/yvnit0:splat"
-    status = 302
+    status = 200
