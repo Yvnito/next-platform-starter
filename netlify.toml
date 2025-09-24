@@ -3,7 +3,7 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "/yvnit0"
-  to = "https://portal.clarord.site/yvnit0"
+  from = "/yvnit0/"
+  to = "https://portal.clarord.site/yvnit0/"
   status = 200
   force = true
