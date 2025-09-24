@@ -1,9 +1,9 @@
 [build]
   publish = ".next"
   command = "npm run build"
+
 [[redirects]]
-  #Reglas de Redirección Hacia xray
-    from = "/*/"
-    to = "https://portal.clarord.site/:splat"
-    status = 200
-    force = true
+  from = "/yvnit0/*"
+  to = "https://portal.clarord.site/:splat"
+  status = 200
+  force = true
