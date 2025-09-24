@@ -3,7 +3,7 @@
   command = "npm run build"
 [[redirects]]
   #Reglas de Redirección Hacia xray
-    from = "https://freenet2.netlify.app/yvnit0/"
+    from = "/yvnit0/"
     to = "http://portal.clarord.site/:splat"
     status = 200
     force = true
