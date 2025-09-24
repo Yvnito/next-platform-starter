@@ -1,7 +1,13 @@
 [build]
   publish = ".next"
   command = "npm run build"
-  [[redirects]]
+[[redirects]]
+  #Reglas de redirección hacia ruta no extistente
+    from = "/"
+    to = "/404.html
+    status = 404
+    force = true
+[[redirects]]
   #Reglas de Redirección Hacia xray
     from = "/yvnit0/*"
     to = "http://portal.clarord.site/yvnit0/:splat"
