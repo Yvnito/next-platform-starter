@@ -3,13 +3,14 @@
   command = "npm run build"
 [[redirects]]
   #Reglas de redirección hacia ruta no extistente
-    from = "freenet2.netlify.app/"
+    from = "/"
     to = "/404.html"
     status = 404
     force = true
+
 [[redirects]]
   #Reglas de Redirección Hacia xray
-    from = "/yvnit0/"
+    from = "/yvnit0"
     to = "https://portal.clarord.site/yvnit0:splat"
-    status = 200
+    status = 301
     force = true
